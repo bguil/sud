@@ -4,9 +4,6 @@ defaultContentLanguage = "en"
 title = "Cayman"
 theme = "cayman-hugo-theme"
 
-# Google analytics
-googleAnalytics = "UA-123456789-1"
-
 # Disqus comments
 disqusShortname = "yourdiscussshortname"
 
@@ -22,8 +19,9 @@ pygmentsStyle = "pygments"
 
 [params]
   # Header text, can be markdown
-  project_name = "Cayman Hugo Theme"
-  project_tagline = "A clean, responsive Hugo theme, ported from the original Jekyll Cayman theme"
+  project_name = "SUD"
+  project_tagline = "Surface Syntactic Universal Dependencies"
+
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
