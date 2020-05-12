@@ -10,3 +10,4 @@
   max-width: 92rem;
 }
 
+img[alt=taxonomy] { width: 100%; }
