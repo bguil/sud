@@ -32,7 +32,6 @@ As a consequence, SUD has specific syntactic relations:
      * [`comp:pred`](relations/comp_pred)
    * [`mod`](relations/mod)
 
-
 ## SUD relations shared with UD
 Nevertheless, SUD share some syntactic relations with UD, the list of which is given below (links to UD related page are given):
   [vocative](https://universaldependencies.org/u/dep/vocative.html),
